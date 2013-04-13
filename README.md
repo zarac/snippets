@@ -1,4 +1,3 @@
 snippets
 ========
-
 Some handy snippets.
